@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "serverless-appsync-plugin": "^1.12.1"
+    "serverless-appsync-plugin": "^1.12.1",
+    "serverless-pseudo-parameters": "^2.6.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1038.0"
   }
 }
